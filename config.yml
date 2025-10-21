@@ -5,7 +5,7 @@ paths:
   output_dir: "out"
 
 settings:
-  minimum_rows: 500
+  minimum_rows: 50000
   items_per_receipt:
     min: 2
     max: 6

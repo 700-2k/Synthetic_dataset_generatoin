@@ -1,204 +1,204 @@
 brand_id,brand_name,category_id,brand_factor
-b001,Coca-Cola,CAT001,1.019
-b002,Pepsi,CAT001,0.968
-b003,Sprite,CAT001,0.861
-b004,Fanta,CAT001,1.042
-b005,Lipton,CAT001,0.995
-b006,Nestea,CAT001,1.054
-b007,BonAqua,CAT001,0.949
-b008,Aqua Minerale,CAT001,1.033
-b009,Borjomi,CAT001,1.14
-b010,Rich,CAT001,0.957
-b011,Danone,CAT002,1.04
-b012,Valio,CAT002,1.119
-b013,President,CAT002,1.192
-b014,Prostokvashino,CAT002,1.024
-b015,Savushkin,CAT002,0.971
-b016,Hochland,CAT002,1.019
-b017,Alpro,CAT002,0.962
-b018,Activia,CAT002,1.098
-b019,BelGioioso,CAT002,1.13
-b020,Galbani,CAT002,1.013
-b021,Coca-Cola,CAT003,1.0
-b022,Pepsi,CAT003,1.021
-b023,Sprite,CAT003,0.966
-b024,Fanta,CAT003,1.089
-b025,Lipton,CAT003,0.975
-b026,Nestea,CAT003,1.096
-b027,BonAqua,CAT003,1.039
-b028,Aqua Minerale,CAT003,1.162
-b029,Borjomi,CAT003,1.246
-b030,Rich,CAT003,0.995
-b031,Coca-Cola,CAT004,0.977
-b032,Pepsi,CAT004,0.945
-b033,Sprite,CAT004,0.971
-b034,Fanta,CAT004,1.113
-b035,Lipton,CAT004,1.014
-b036,Nestea,CAT004,1.041
-b037,BonAqua,CAT004,0.989
-b038,Aqua Minerale,CAT004,1.04
-b039,Borjomi,CAT004,1.3
-b040,Rich,CAT004,1.076
-b041,Coca-Cola,CAT005,1.05
-b042,Pepsi,CAT005,1.0
-b043,Sprite,CAT005,1.095
-b044,Fanta,CAT005,1.023
-b045,Lipton,CAT005,1.015
-b046,Nestea,CAT005,1.062
-b047,BonAqua,CAT005,1.131
-b048,Aqua Minerale,CAT005,0.966
-b049,Borjomi,CAT005,1.05
-b050,Rich,CAT005,1.051
+b001,Harry's,CAT001,1.037
+b002,Wonder Bread,CAT001,0.923
+b003,Nature’s Own,CAT001,0.982
+b004,Pepperidge Farm,CAT001,1.065
+b005,Sara Lee,CAT001,0.956
+b006,King’s Hawaiian,CAT001,1.078
+b007,Dave’s Killer Bread,CAT001,0.912
+b008,Oroweat,CAT001,1.044
+b009,Arnold,CAT001,1.098
+b010,Sunbeam,CAT001,0.934
+b011,Простоквашино,CAT002,1.042
+b012,Домик в деревне,CAT002,1.118
+b013,Вкуснотеево,CAT002,1.187
+b014,Савушкин продукт,CAT002,1.029
+b015,Брест-Литовск,CAT002,0.972
+b016,Коровка из Кореновки,CAT002,1.017
+b017,Авида,CAT002,0.965
+b018,Danone,CAT002,1.095
+b019,Valio,CAT002,1.124
+b020,Минская марка,CAT002,1.012
+b021,Курочка Ряба,CAT003,1.012
+b022,Окское Подворье,CAT003,0.987
+b023,Просто Яйцо,CAT003,1.024
+b024,Зеленая Долина,CAT003,1.036
+b025,Петелинка,CAT003,1.058
+b026,Роскар,CAT003,0.981
+b027,Кинель-Агро,CAT003,1.045
+b028,Волжанин,CAT003,1.017
+b029,Мираторг,CAT003,1.072
+b030,Благодарное Яйцо,CAT003,0.993
+b031,Русский сахар,CAT004,1.012
+b032,Чайкофский,CAT004,0.978
+b033,Славянка,CAT004,0.995
+b034,Мистраль,CAT004,1.034
+b035,Агро-Альянс,CAT004,1.021
+b036,Домашний,CAT004,0.982
+b037,Сахарок,CAT004,1.008
+b038,Просто сахар,CAT004,0.967
+b039,Кристалл,CAT004,1.045
+b040,Увелка,CAT004,1.026
+b041,Экстра,CAT005,1.04
+b042,Артемсоль,CAT005,1.01
+b043,Илецкая,CAT005,1.08
+b044,Славяновская соль,CAT005,1.02
+b045,Морская соль Sanasol,CAT005,1.03
+b046,Руссоль,CAT005,1.06
+b047,Приправыч,CAT005,1.13
+b048,Гималайская соль Himalaya Pink,CAT005,0.97
+b049,Малдон (Maldon),CAT005,1.05
+b050,Dr. IOD,CAT005,1.05
 b051,Makfa,CAT006,0.938
 b052,Barilla,CAT006,0.996
 b053,De Cecco,CAT006,0.957
 b054,Mistral,CAT006,0.944
-b055,Heinz,CAT006,0.987
-b056,Calve,CAT006,1.041
-b057,Kikkoman,CAT006,1.022
-b058,Lee Kum Kee,CAT006,0.956
-b059,Blue Dragon,CAT006,0.987
-b060,Baltimore,CAT006,0.979
-b061,Coca-Cola,CAT007,1.057
-b062,Pepsi,CAT007,0.981
-b063,Sprite,CAT007,1.077
-b064,Fanta,CAT007,1.034
-b065,Lipton,CAT007,1.001
-b066,Nestea,CAT007,1.138
-b067,BonAqua,CAT007,0.935
-b068,Aqua Minerale,CAT007,1.08
-b069,Borjomi,CAT007,1.109
-b070,Rich,CAT007,1.055
-b071,Coca-Cola,CAT008,0.906
-b072,Pepsi,CAT008,0.927
-b073,Sprite,CAT008,1.106
-b074,Fanta,CAT008,1.026
-b075,Lipton,CAT008,0.978
-b076,Nestea,CAT008,0.915
-b077,BonAqua,CAT008,1.052
-b078,Aqua Minerale,CAT008,0.965
-b079,Borjomi,CAT008,1.168
-b080,Rich,CAT008,1.039
-b081,Coca-Cola,CAT009,1.112
-b082,Pepsi,CAT009,1.027
-b083,Sprite,CAT009,1.01
-b084,Fanta,CAT009,0.96
-b085,Lipton,CAT009,0.978
-b086,Nestea,CAT009,1.012
-b087,BonAqua,CAT009,1.005
-b088,Aqua Minerale,CAT009,0.952
-b089,Borjomi,CAT009,1.123
-b090,Rich,CAT009,0.997
-b091,Coca-Cola,CAT010,0.989
-b092,Pepsi,CAT010,1.018
-b093,Sprite,CAT010,1.096
-b094,Fanta,CAT010,0.922
-b095,Lipton,CAT010,0.989
-b096,Nestea,CAT010,1.046
-b097,BonAqua,CAT010,1.022
-b098,Aqua Minerale,CAT010,1.066
-b099,Borjomi,CAT010,1.17
-b100,Rich,CAT010,1.085
-b101,Danone,CAT011,1.026
-b102,Valio,CAT011,1.217
-b103,President,CAT011,1.189
-b104,Prostokvashino,CAT011,0.891
-b105,Savushkin,CAT011,0.808
-b106,Hochland,CAT011,1.1
-b107,Alpro,CAT011,0.936
-b108,Activia,CAT011,1.021
-b109,BelGioioso,CAT011,0.959
-b110,Galbani,CAT011,1.004
-b111,Coca-Cola,CAT012,1.154
-b112,Pepsi,CAT012,0.912
-b113,Sprite,CAT012,1.122
-b114,Fanta,CAT012,1.089
-b115,Lipton,CAT012,0.959
-b116,Nestea,CAT012,1.069
-b117,BonAqua,CAT012,1.027
-b118,Aqua Minerale,CAT012,0.998
-b119,Borjomi,CAT012,1.076
-b120,Rich,CAT012,1.072
-b121,Coca-Cola,CAT013,1.032
-b122,Pepsi,CAT013,0.983
-b123,Sprite,CAT013,0.975
-b124,Fanta,CAT013,1.074
-b125,Lipton,CAT013,0.96
-b126,Nestea,CAT013,0.987
-b127,BonAqua,CAT013,0.957
-b128,Aqua Minerale,CAT013,1.004
-b129,Borjomi,CAT013,1.152
-b130,Rich,CAT013,0.991
-b131,Coca-Cola,CAT014,1.032
-b132,Pepsi,CAT014,0.956
-b133,Sprite,CAT014,0.994
-b134,Fanta,CAT014,1.161
-b135,Lipton,CAT014,1.072
-b136,Nestea,CAT014,1.03
-b137,BonAqua,CAT014,1.167
-b138,Aqua Minerale,CAT014,1.119
-b139,Borjomi,CAT014,1.3
-b140,Rich,CAT014,0.982
-b141,Coca-Cola,CAT015,0.944
-b142,Pepsi,CAT015,1.103
-b143,Sprite,CAT015,1.075
-b144,Fanta,CAT015,1.022
-b145,Lipton,CAT015,0.953
-b146,Nestea,CAT015,0.87
-b147,BonAqua,CAT015,1.185
-b148,Aqua Minerale,CAT015,1.037
-b149,Borjomi,CAT015,1.268
-b150,Rich,CAT015,0.881
-b151,Danone,CAT016,1.01
-b152,Valio,CAT016,1.164
-b153,President,CAT016,1.246
-b154,Prostokvashino,CAT016,0.895
-b155,Savushkin,CAT016,0.8
-b156,Hochland,CAT016,1.077
-b157,Alpro,CAT016,1.08
-b158,Activia,CAT016,1.054
-b159,BelGioioso,CAT016,0.962
-b160,Galbani,CAT016,1.162
-b161,Knauf,CAT017,0.938
-b162,Ceresit,CAT017,0.982
-b163,Weber,CAT017,1.122
-b164,Mapei,CAT017,0.8
-b165,Litokol,CAT017,1.039
-b166,Plitonit,CAT017,0.895
-b167,Bergauf,CAT017,0.898
-b168,Volma,CAT017,0.927
-b169,Vetonit,CAT017,1.104
-b170,CEKOL,CAT017,1.036
-b171,Coca-Cola,CAT018,0.938
-b172,Pepsi,CAT018,0.938
-b173,Sprite,CAT018,1.002
-b174,Fanta,CAT018,1.013
-b175,Schweppes,CAT018,0.945
-b176,Rich,CAT018,1.085
-b177,Dobry,CAT018,0.991
-b178,J7,CAT018,0.969
-b179,Borjomi,CAT018,1.068
-b180,Aqua Minerale,CAT018,1.056
-b181,Coca-Cola,CAT019,1.012
-b182,Pepsi,CAT019,0.936
-b183,Sprite,CAT019,0.959
-b184,Fanta,CAT019,1.007
-b185,Schweppes,CAT019,0.958
-b186,Rich,CAT019,1.064
-b187,Dobry,CAT019,0.933
-b188,J7,CAT019,1.072
-b189,Borjomi,CAT019,1.217
-b190,Aqua Minerale,CAT019,1.006
-b191,Coca-Cola,CAT020,0.94
-b192,Pepsi,CAT020,0.96
-b193,Sprite,CAT020,1.07
-b194,Fanta,CAT020,1.033
-b195,Schweppes,CAT020,1.116
-b196,Rich,CAT020,1.051
-b197,Dobry,CAT020,1.035
-b198,J7,CAT020,1.051
-b199,Borjomi,CAT020,1.089
-b200,Aqua Minerale,CAT020,1.051
+b055,Shebekinskie,CAT006,0.981
+b056,Granoro,CAT006,1.027
+b057,Pasta Zara,CAT006,1.013
+b058,Divella,CAT006,0.962
+b059,Agro-Alliance,CAT006,0.986
+b060,Petra,CAT006,0.978
+b061,Мистраль,CAT007,1.042
+b062,Националь,CAT007,0.978
+b063,Увелка,CAT007,1.065
+b064,Агро-Альянс,CAT007,1.031
+b065,Красная цена,CAT007,0.952
+b066,Ярмарка,CAT007,1.017
+b067,Басмати Золотое зерно,CAT007,1.089
+b068,Зернышко,CAT007,0.963
+b069,Рис Кубань,CAT007,1.027
+b070,Каждый день,CAT007,0.946
+b071,Увелка,CAT008,0.912
+b072,Мистраль,CAT008,0.934
+b073,Националь,CAT008,1.018
+b074,Агро-Альянс,CAT008,0.983
+b075,Макфа,CAT008,1.027
+b076,ПродОПТ,CAT008,0.905
+b077,Великая,CAT008,1.041
+b078,Ярмарка,CAT008,0.958
+b079,Алтайская крупа,CAT008,1.062
+b080,Зерновита,CAT008,0.976
+b081,Золотая Семечка,CAT009,1.085
+b082,Олейна,CAT009,1.072
+b083,Слобода,CAT009,1.048
+b084,Благо,CAT009,0.963
+b085,Ideal,CAT009,0.982
+b086,Милора,CAT009,1.011
+b087,Селяночка,CAT009,0.995
+b088,Злато,CAT009,0.958
+b089,Красная Цена,CAT009,0.927
+b090,Аведовъ,CAT009,1.033
+b091,Валио,CAT010,1.012
+b092,Простоквашино,CAT010,0.978
+b093,Брест-Литовск,CAT010,1.034
+b094,Вкуснотеево,CAT010,0.956
+b095,Коровка из Кореновки,CAT010,0.989
+b096,Экомилк,CAT010,1.021
+b097,Домик в деревне,CAT010,1.008
+b098,Кубанская бурёнка,CAT010,0.972
+b099,President,CAT010,1.067
+b100,Alpenbutter,CAT010,1.045
+b101,President,CAT011,1.045
+b102,Valio,CAT011,1.212
+b103,Hochland,CAT011,1.178
+b104,Prostokvashino,CAT011,0.902
+b105,Savushkin,CAT011,0.815
+b106,Lambert,CAT011,1.093
+b107,Galbani,CAT011,1.008
+b108,BelGioioso,CAT011,0.971
+b109,Bonfesto,CAT011,0.948
+b110,Сыробогатов,CAT011,0.884
+b111,Микоян,CAT012,1.142
+b112,Дымов,CAT012,1.087
+b113,Велком,CAT012,1.098
+b114,Останкино,CAT012,0.973
+b115,Клинский,CAT012,1.126
+b116,Черкизово,CAT012,1.063
+b117,Рублевский,CAT012,1.091
+b118,Егорьевская,CAT012,0.956
+b119,Папа Может,CAT012,0.984
+b120,Окраина,CAT012,1.072
+b121,Петелинка,CAT013,1.048
+b122,Первая Свежесть,CAT013,0.982
+b123,Ясные Зори,CAT013,0.976
+b124,Приосколье,CAT013,1.065
+b125,Рокко,CAT013,0.961
+b126,Мираторг,CAT013,1.021
+b127,Каждый День,CAT013,0.954
+b128,Золотой Петушок,CAT013,0.998
+b129,Курочка Ряба,CAT013,1.112
+b130,ВкусВилл,CAT013,0.989
+b131,Белая Дача,CAT014,1.042
+b132,Мираторг,CAT014,1.018
+b133,Агрокомплекс,CAT014,0.973
+b134,4 Сезона,CAT014,1.061
+b135,Бондюэль,CAT014,1.087
+b136,Овощное Лукошко,CAT014,1.026
+b137,Фермерские Продукты,CAT014,0.991
+b138,Экоферма,CAT014,1.033
+b139,ВкусВилл,CAT014,1.112
+b140,FreshBox,CAT014,0.978
+b141,Красная Поляна,CAT015,0.952
+b142,Азербайджанские Сады,CAT015,1.087
+b143,Фруктовый Рай,CAT015,1.061
+b144,Сады Придонья,CAT015,1.028
+b145,Зелёная Грядка,CAT015,0.947
+b146,ВкусВилл,CAT015,0.879
+b147,Магнит Fresh,CAT015,1.176
+b148,Перекрёсток Select,CAT015,1.031
+b149,Сочи Фрут,CAT015,1.259
+b150,Фруктовая Линия,CAT015,0.886
+b151,Чудо,CAT016,0.942
+b152,Эпика,CAT016,1.087
+b153,Активиа,CAT016,1.056
+b154,Простоквашино,CAT016,0.913
+b155,Савушкин продукт,CAT016,0.876
+b156,Валио,CAT016,1.124
+b157,Данон,CAT016,1.032
+b158,БиоБаланс,CAT016,0.958
+b159,Campina,CAT016,1.011
+b160,Домик в деревне,CAT016,0.972
+b161,Alpen Gold,CAT017,0.942
+b162,Ritter Sport,CAT017,0.978
+b163,Milka,CAT017,1.115
+b164,Babaevский,CAT017,0.812
+b165,Россия – Щедрая душа!,CAT017,1.031
+b166,Красный Октябрь,CAT017,0.889
+b167,Коркунов,CAT017,0.904
+b168,Lindt,CAT017,0.921
+b169,Шоколадница,CAT017,1.097
+b170,Виктория,CAT017,1.028
+b171,BonAqua,CAT018,0.942
+b172,Saint Spring,CAT018,0.951
+b173,Arkhyz,CAT018,1.008
+b174,Borjomi,CAT018,1.072
+b175,Essentuki,CAT018,1.015
+b176,Legend of Baikal,CAT018,0.987
+b177,Shishkin Les,CAT018,0.959
+b178,Aqua Minerale,CAT018,1.034
+b179,Senezhskaya,CAT018,0.946
+b180,Narzan,CAT018,1.061
+b181,Jacobs,CAT019,1.045
+b182,Tchibo,CAT019,0.971
+b183,Jardin,CAT019,0.956
+b184,Paulig,CAT019,1.012
+b185,Lavazza,CAT019,1.083
+b186,Kimbo,CAT019,1.067
+b187,Чёрная Карта,CAT019,0.928
+b188,Жокей,CAT019,0.942
+b189,Illy,CAT019,1.214
+b190,Московская кофейня на паяхъ,CAT019,0.993
+b191,Ahmad Tea,CAT020,1.02
+b192,Greenfield,CAT020,1.04
+b193,Tess,CAT020,1.03
+b194,Lipton,CAT020,1.05
+b195,May Tea,CAT020,1.01
+b196,Berkeley,CAT020,0.98
+b197,Brooke Bond,CAT020,1.00
+b198,Princess Noori,CAT020,0.97
+b199,Richard Tea,CAT020,1.06
+b200,Akbar,CAT020,1.02
 b201,Apple,CAT021,1.111
 b202,Samsung,CAT021,1.197
 b203,Xiaomi,CAT021,0.936
