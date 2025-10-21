@@ -1,0 +1,15 @@
+# Конфигурационный файл генерации датасета
+
+paths:
+  input_dir: "data"
+  output_dir: "out"
+
+settings:
+  minimum_rows: 500
+  items_per_receipt:
+    min: 2
+    max: 6
+  date_range:
+    start: "2024-01-01"
+    end:   "2025-09-30"
+  

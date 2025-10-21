@@ -1,0 +1,4 @@
+network_id,network_name,country,probability
+n001,VISA,USA,0.45
+n002,MASTERCARD,USA,0.35
+n003,MIR,Russia,0.20
